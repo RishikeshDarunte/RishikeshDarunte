@@ -2,8 +2,7 @@
 
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47gy6x801u2qzckuyui833ae7f1xvobm7k54lnalkk&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-- 🔭 Here's my [portfolio](https://mkiskrazy.github.io/Portfolio/)                                                 
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47gy6x801u2qzckuyui833ae7f1xvobm7k54lnalkk&ep=v1_gifs_search&rid=giphy.gif&ct=g">                                             
 - 🌱 I’m currently learning Python Full Stack Development
 - 🤔 I’m looking for help with Placements and Internships
 - 📫 How to reach me :
