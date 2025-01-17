@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47gy6x801u2qzckuyui833ae7f1xvobm7k54lnalkk&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikeshdarunte&label=Profile%20views&color=0e75b6&style=flat" alt="rishikeshdarunte" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikeshdarunte" alt="rishikeshdarunte" /></a> </p>
