@@ -1,14 +1,24 @@
-## Hi there 👋 Rishikesh Here!
+<h1 align="center">Hi 👋, I'm Rishikesh</h1>
 
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47gy6x801u2qzckuyui833ae7f1xvobm7k54lnalkk&ep=v1_gifs_search&rid=giphy.gif&ct=g">                                             
-- 🌱 I’m currently learning Python Full Stack Development
-- 🤔 I’m looking for help with Placements and Internships
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rishikeshdarunte55@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rishikesh-darunte-480269229/)
-- ⚡ Fun fact: I'm a Gamer(hardcore).
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47gy6x801u2qzckuyui833ae7f1xvobm7k54lnalkk&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikeshdarunte&label=Profile%20views&color=0e75b6&style=flat" alt="rishikeshdarunte" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikeshdarunte" alt="rishikeshdarunte" /></a> </p>
+
+- 🔭 I’m currently working on **NGO Management System**
+
+- 🌱 I’m currently learning **Django Framework**
+
+- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+
+- 📫 How to reach me **rishikeshdarunte55@gmail.com**
+
+- 📄 Know about my experiences [resume link](resume link)
+
+- ⚡ Fun fact **I'm a Gamer(hardcore).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
