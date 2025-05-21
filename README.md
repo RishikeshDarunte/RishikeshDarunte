@@ -10,8 +10,6 @@
 
 - 🌱 Deepening my expertise in the **Django Framework**, focusing on building robust web applications.
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
-
 - 📫 How to reach me **rishikeshdarunte55@gmail.com**
 
 - 📄 Know about my experiences [resume link](resume link)
