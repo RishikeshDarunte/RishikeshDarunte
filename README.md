@@ -1,86 +1,89 @@
-<h1 align="center">Hi 👋, I'm Rishikesh Darunte</h1>
-<h3 align="center">Aspiring Full Stack Developer | Python & Django Enthusiast | Final Year CSE Student</h3>
+<h1 align="center">Hey there 👋, I'm Rishikesh Darunte</h1>
+<h3 align="center">🚀 Python Developer | AI Learner | Final Year CS Student</h3>
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="coding gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rishikeshdarunte&label=Profile%20views&color=0e75b6&style=flat" alt="rishikeshdarunte" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Python%20Developer;Intern%20@%20Kiran%20Academy;AICTE%20Intern%20(Microsoft%20%26%20SAP);Passionate%20about%20Learning%20%26%20Building!&center=true&width=440&height=45&font=Fira+Code&pause=1000&color=00F8AB&vCenter=true" />
 </p>
 
 ---
 
-🔭 **Currently Working On:**  
-- Developing a **Python-based NGO Verification and Donation System** using ASP.NET and SQL Server.  
-- Contributing to **internship projects** focused on full stack development at **Kiran Academy**.
+### 🌟 About Me
 
-🎓 **Education:**  
-- B.Tech in Computer Science (2021–2025)  
-- CSMSS Chh. Shahu College of Engineering, Aurangabad (Affiliated to DBATU)
-
-💼 **Internships:**  
-- 🐍 **Python Developer Intern** – ShadowFox & Codesoft  
-- 🌐 **Full Stack Intern** – The Kiran Academy  
-- 🧠 **AI Intern** – AICTE TechSaksham (Microsoft + SAP Initiative)
-
-🌱 **Learning & Upskilling:**  
-- Building scalable web apps with **Django & Flask**  
-- Enhancing frontend with **React.js**  
-- Working on **SQL & data modeling** for backend
-
-📄 **Resume:** [Click to View](#) <!-- Update this with the actual URL -->
-
-📫 **Contact Me:**  
-- 📧 rishikeshdarunte55@gmail.com
-
-⚡ **Fun Fact:**  
-I'm a gamer who believes debugging and defeating game bosses are oddly similar. 🎮
+- 🎓 Final year B.Tech (CS) student at **CSMSS College of Engineering**
+- 💻 Interning at **The Kiran Academy** - Python Full Stack Developer  
+- 🤖 Working on **AI-Powered Resume Screening System** (AICTE - Microsoft & SAP)
+- 💡 Passionate about building **ML projects**, solving **real-world problems**
+- 🛠️ Skilled in **Python, Django, SQL, HTML, CSS, JS, Flask, Git**
+- 📫 Reach me: `rishikeshdarunte55@gmail.com`
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect With Me
 
-<p align="left">
-<a href="https://codepen.io/rishi2211" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/rishikesh-darunte-480269229/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-<a href="https://kaggle.com/rishikeshdarunt" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/></a>
-<a href="https://instagram.com/rishi_d_22" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
-<a href="https://www.codechef.com/users/rishid22" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/></a>
-<a href="https://www.hackerrank.com/rishikeshdarunt1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a>
-<a href="https://leetcode.com/rishi_22" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/rishikeshd8d1j" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishikesh-darunte-480269229/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/rishi_22"><img src="https://img.shields.io/badge/Leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/rishikeshdarunt1"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://kaggle.com/rishikeshdarunt"><img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/rishid22"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
-  <a href="#"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="MSSQL"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>
-  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/></a>
-</p>
+#### Languages
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+#### Web & Frameworks
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+#### Database & Tools
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode)
+
+#### AI/ML & Data
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+
+---
+
+### 📂 Featured Projects
+
+#### 🔹 NGO Verification & Donation System
+> A full-stack web platform for verifying NGOs and accepting donations.  
+**Tech Used:** ASP.NET, SQL Server, HTML, CSS, JavaScript
+
+#### 🔹 Fake News Detection
+> Detects fake news using Natural Language Processing.  
+**Tech Used:** Python, Sklearn, TF-IDF, Naive Bayes
+
+#### 🔹 Stock Market Predictor
+> Predicts stock trends using regression and ML techniques.  
+**Tech Used:** Python, Pandas, Matplotlib, Linear Regression
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikeshdarunte&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikeshdarunte&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikeshdarunte&layout=compact&theme=tokyonight" width="45%" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rishikeshdarunte&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshdarunte" alt="GitHub Streak"/>
-</p>
+
+---
+
+### 📌 Quote
+> _"First, solve the problem. Then, write the code." – John Johnson_
+
+---
+
