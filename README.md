@@ -9,10 +9,9 @@
 
 ### 🌟 About Me
 
-- 🎓 Final year B.Tech (CS) student at **CSMSS College of Engineering**
-- 💻 Interning at **The Kiran Academy** - Python Full Stack Developer  
-- 🤖 Working on **AI-Powered Resume Screening System** (AICTE - Microsoft & SAP)
-- 💡 Passionate about building **ML projects**, solving **real-world problems**
+- 🎓 B.Tech CSE graduate from Dr. Babasaheb Ambedkar Technological University 
+- 💻 Full Stack Developer  
+- 💡 Passionate about solving **real-world problems**
 - 🛠️ Skilled in **Python, Django, SQL, HTML, CSS, JS, Flask, Git**
 - 📫 Reach me: `rishikeshdarunte55@gmail.com`
 
@@ -24,8 +23,6 @@
   <a href="https://www.linkedin.com/in/rishikesh-darunte-480269229/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/rishi_22"><img src="https://img.shields.io/badge/Leetcode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/rishikeshdarunt1"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://kaggle.com/rishikeshdarunt"><img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/rishid22"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
 
 ---
@@ -76,7 +73,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishikeshdarunte&show_icons=true&theme=tokyonight" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikeshdarunte&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
