@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Rishikesh Darunte</h1>
-<h3 align="center">🚀 Python Developer | AI Learner | Final Year CS Student</h3>
+<h1 align="center">Hey there, I'm Rishikesh Darunte</h1>
+<h3 align="center"> Python Developer | AI Learner </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Python%20Developer;Intern%20@%20Kiran%20Academy;AICTE%20Intern%20(Microsoft%20%26%20SAP);Passionate%20about%20Learning%20%26%20Building!&center=true&width=440&height=45&font=Fira+Code&pause=1000&color=00F8AB&vCenter=true" />
@@ -70,16 +70,5 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikeshdarunte&layout=compact&theme=tokyonight" width="45%" />
-</p>
-
----
-
 ### 📌 Quote
 > _"First, solve the problem. Then, write the code." – John Johnson_
-
----
-
