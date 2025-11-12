@@ -10,7 +10,6 @@
 ### 🌟 About Me
 
 - 🎓 B.Tech CSE graduate from Dr. Babasaheb Ambedkar Technological University 
-- 💻 Full Stack Developer  
 - 💡 Passionate about solving **real-world problems**
 - 🛠️ Skilled in **Python, Django, SQL, HTML, CSS, JS, Flask, Git**
 - 📫 Reach me: `rishikeshdarunte55@gmail.com`
