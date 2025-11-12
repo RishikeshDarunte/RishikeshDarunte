@@ -53,21 +53,5 @@
 
 ---
 
-### 📂 Featured Projects
-
-#### 🔹 NGO Verification & Donation System
-> A full-stack web platform for verifying NGOs and accepting donations.  
-**Tech Used:** ASP.NET, SQL Server, HTML, CSS, JavaScript
-
-#### 🔹 Fake News Detection
-> Detects fake news using Natural Language Processing.  
-**Tech Used:** Python, Sklearn, TF-IDF, Naive Bayes
-
-#### 🔹 Stock Market Predictor
-> Predicts stock trends using regression and ML techniques.  
-**Tech Used:** Python, Pandas, Matplotlib, Linear Regression
-
----
-
 ### 📌 Quote
 > _"First, solve the problem. Then, write the code." – John Johnson_
