@@ -11,7 +11,7 @@
 
 - 🎓 B.Tech CSE graduate from Dr. Babasaheb Ambedkar Technological University 
 - 💡 Passionate about solving **real-world problems**
-- 🛠️ Skilled in **Python, Django, SQL, HTML, CSS, JS, Flask, Git**
+- 🛠️ Skilled in **Java, Python, Django, SQL, HTML, CSS, JS, Flask, Git**
 - 📫 Reach me: `rishikeshdarunte55@gmail.com`
 
 ---
