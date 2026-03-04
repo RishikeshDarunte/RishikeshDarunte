@@ -7,12 +7,13 @@
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
-- 🎓 B.Tech CSE graduate from Dr. Babasaheb Ambedkar Technological University 
-- 💡 Passionate about solving **real-world problems**
-- 🛠️ Skilled in **Java, Python, Django, SQL, HTML, CSS, JS, Flask, Git**
-- 📫 Reach me: `rishikeshdarunte55@gmail.com`
+- 🎓 **B.Tech in Computer Science & Engineering** graduate from **Dr. Babasaheb Ambedkar Technological University**
+- 👨‍💻 Currently pursuing **PGCP-AC (Post Graduate Certification in Advanced Computing)** at **CDAC SMVITA, Mumbai**
+- 💡 Passionate about **building technology solutions for real-world problems**
+- 🛠️ Technical Skills: **Java, Python, Django, Flask, SQL, HTML, CSS, JavaScript, Git**
+- 📫 Reach me at: **rishikeshdarunte55@gmail.com**
 
 ---
 
