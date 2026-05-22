@@ -9,10 +9,13 @@
 
 ## 🌟 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering** graduate from **Dr. Babasaheb Ambedkar Technological University**
-- 👨‍💻 Currently pursuing **PGCP-AC (Post Graduate Certification in Advanced Computing)** at **CDAC SMVITA, Mumbai**
-- 💡 Passionate about **building technology solutions for real-world problems**
-- 🛠️ Technical Skills: **Java, Python, Django, Flask, SQL, HTML, CSS, JavaScript, Git**
+- 🎓 **B.Tech in Computer Science & Engineering** graduate from **Dr. Babasaheb Ambedkar Technological University (DBATU)**
+- 💻 Currently pursuing **PGCP-AC (Post Graduate Certification in Advanced Computing)** at **CDAC SMVITA, Mumbai**
+- 🚀 Passionate about **Software Development, Problem Solving, and Building Technology Solutions for Real-World Challenges**
+- 🛠️ Technical Skills: **Java, Python, SQL, Django, Flask, HTML, CSS, JavaScript, Git, MySQL**
+- 📚 Completed internships in **Python Development**, **AI/ML**, and **Full Stack Development**
+- 🏆 Certified in **NPTEL (Python, Java, Cloud Computing, DBMS)**, **Infosys Springboard**, and **Deloitte Data Analytics**
+- 🔍 Currently seeking opportunities as a **Software Developer / Python Developer / Java Developer**
 - 📫 Reach me at: **rishikeshdarunte55@gmail.com**
 
 ---
