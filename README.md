@@ -68,22 +68,12 @@
 
 ## 📌 Featured Projects
 
+- ❤️ NGO Verification & Donation Management System
 - 📈 Stock Market Prediction using Machine Learning
 - 📰 Fake News Detection using NLP & ML
 - 🤖 AI-Powered Resume Screening & Ranking System
-- ❤️ NGO Verification & Donation Management System
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RishikeshDarunte&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishikeshDarunte&layout=compact&theme=github_dark" />
-</p>
 
 ---
 
 ## 📌 Quote
-
-> "First, solve the problem. Then, write the code."
+> _"First, solve the problem. Then, write the code." – John Johnson_
